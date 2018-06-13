@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
+Its main purpose is to show how BDD would work within an angular based project. [Tutorial](https://medium.com/spektrakel-blog/angular-protractor-and-cucumber-552bd75ff6c9)
+
+you can run `ng e2e` to see it working :)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
